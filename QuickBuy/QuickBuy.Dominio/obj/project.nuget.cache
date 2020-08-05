@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Esv4hbQdGQsH7zpKc9EDIKhebZ332AUphFP4AsxQz9PJEzkTDWDp1HT9gOvqc59quWl59kuYHy+f3CVOnEIzSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wrusso\\Desktop\\Respoistorio_Pessoal\\Projetos-.Net\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
